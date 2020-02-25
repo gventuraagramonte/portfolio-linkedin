@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/gventuraagramonte/portfolio-linkedin.git/static/css/main.9edffa66.chunk.css",
-    "main.js": "/gventuraagramonte/portfolio-linkedin.git/static/js/main.67f0101a.chunk.js",
-    "main.js.map": "/gventuraagramonte/portfolio-linkedin.git/static/js/main.67f0101a.chunk.js.map",
-    "runtime-main.js": "/gventuraagramonte/portfolio-linkedin.git/static/js/runtime-main.141fe0e2.js",
-    "runtime-main.js.map": "/gventuraagramonte/portfolio-linkedin.git/static/js/runtime-main.141fe0e2.js.map",
-    "static/css/2.3db4eb7d.chunk.css": "/gventuraagramonte/portfolio-linkedin.git/static/css/2.3db4eb7d.chunk.css",
-    "static/js/2.55fdb914.chunk.js": "/gventuraagramonte/portfolio-linkedin.git/static/js/2.55fdb914.chunk.js",
-    "static/js/2.55fdb914.chunk.js.map": "/gventuraagramonte/portfolio-linkedin.git/static/js/2.55fdb914.chunk.js.map",
-    "index.html": "/gventuraagramonte/portfolio-linkedin.git/index.html",
-    "precache-manifest.d8f8f4abff0cae9d44c473e5cca79ede.js": "/gventuraagramonte/portfolio-linkedin.git/precache-manifest.d8f8f4abff0cae9d44c473e5cca79ede.js",
-    "service-worker.js": "/gventuraagramonte/portfolio-linkedin.git/service-worker.js",
-    "static/css/2.3db4eb7d.chunk.css.map": "/gventuraagramonte/portfolio-linkedin.git/static/css/2.3db4eb7d.chunk.css.map",
-    "static/css/main.9edffa66.chunk.css.map": "/gventuraagramonte/portfolio-linkedin.git/static/css/main.9edffa66.chunk.css.map",
-    "static/js/2.55fdb914.chunk.js.LICENSE.txt": "/gventuraagramonte/portfolio-linkedin.git/static/js/2.55fdb914.chunk.js.LICENSE.txt",
-    "static/media/AngularLogo.png": "/gventuraagramonte/portfolio-linkedin.git/static/media/AngularLogo.1a632d2b.png",
-    "static/media/DiplomaNodeJS.PNG": "/gventuraagramonte/portfolio-linkedin.git/static/media/DiplomaNodeJS.f38a1d6b.PNG",
-    "static/media/DiplomaPython.PNG": "/gventuraagramonte/portfolio-linkedin.git/static/media/DiplomaPython.e0abb9bc.PNG",
-    "static/media/PythonLogo.png": "/gventuraagramonte/portfolio-linkedin.git/static/media/PythonLogo.b9bbb1d7.png",
-    "static/media/ReactLogo.png": "/gventuraagramonte/portfolio-linkedin.git/static/media/ReactLogo.c3ba82a5.png"
+    "main.css": "/portfolio-linkedin/static/css/main.9edffa66.chunk.css",
+    "main.js": "/portfolio-linkedin/static/js/main.c7ac9398.chunk.js",
+    "main.js.map": "/portfolio-linkedin/static/js/main.c7ac9398.chunk.js.map",
+    "runtime-main.js": "/portfolio-linkedin/static/js/runtime-main.47ebf3cb.js",
+    "runtime-main.js.map": "/portfolio-linkedin/static/js/runtime-main.47ebf3cb.js.map",
+    "static/css/2.3db4eb7d.chunk.css": "/portfolio-linkedin/static/css/2.3db4eb7d.chunk.css",
+    "static/js/2.55fdb914.chunk.js": "/portfolio-linkedin/static/js/2.55fdb914.chunk.js",
+    "static/js/2.55fdb914.chunk.js.map": "/portfolio-linkedin/static/js/2.55fdb914.chunk.js.map",
+    "index.html": "/portfolio-linkedin/index.html",
+    "precache-manifest.0e14985b83de38f1696ed18e2854b056.js": "/portfolio-linkedin/precache-manifest.0e14985b83de38f1696ed18e2854b056.js",
+    "service-worker.js": "/portfolio-linkedin/service-worker.js",
+    "static/css/2.3db4eb7d.chunk.css.map": "/portfolio-linkedin/static/css/2.3db4eb7d.chunk.css.map",
+    "static/css/main.9edffa66.chunk.css.map": "/portfolio-linkedin/static/css/main.9edffa66.chunk.css.map",
+    "static/js/2.55fdb914.chunk.js.LICENSE.txt": "/portfolio-linkedin/static/js/2.55fdb914.chunk.js.LICENSE.txt",
+    "static/media/AngularLogo.png": "/portfolio-linkedin/static/media/AngularLogo.1a632d2b.png",
+    "static/media/DiplomaNodeJS.PNG": "/portfolio-linkedin/static/media/DiplomaNodeJS.f38a1d6b.PNG",
+    "static/media/DiplomaPython.PNG": "/portfolio-linkedin/static/media/DiplomaPython.e0abb9bc.PNG",
+    "static/media/PythonLogo.png": "/portfolio-linkedin/static/media/PythonLogo.b9bbb1d7.png",
+    "static/media/ReactLogo.png": "/portfolio-linkedin/static/media/ReactLogo.c3ba82a5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.141fe0e2.js",
+    "static/js/runtime-main.47ebf3cb.js",
     "static/css/2.3db4eb7d.chunk.css",
     "static/js/2.55fdb914.chunk.js",
     "static/css/main.9edffa66.chunk.css",
-    "static/js/main.67f0101a.chunk.js"
+    "static/js/main.c7ac9398.chunk.js"
   ]
 }
