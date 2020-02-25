@@ -2,7 +2,7 @@
   "name": "portfolio_linkedin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gventuraagramonte.github.io/portfolio-linkedin",
+  "homepage": "http://gventuraagramonte.github.io/portfolio-linkedin",
   "dependencies": {
     "@material-ui/core": "^4.9.3",
     "@material-ui/icons": "^4.9.1",
