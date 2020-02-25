@@ -1,0 +1,47 @@
+.Badges__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background: black;
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+}
+
+.social_link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2px;
+}
+
+.classes_link {
+  display: flex;
+}
+
+.classes_icon {
+  margin-right: 0.5%;
+  width: 20;
+  height: 20;
+}
+
+.Badges__hero > .Badges__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Badges__container {
+  width: 100%;
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.Badges_conf-logo {
+  margin-bottom: 2rem;
+}
+
+.Badges__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
